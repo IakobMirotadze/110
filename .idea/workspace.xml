@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c71aba67-ef9b-46ba-b0d2-a81d65724080" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/lecture5.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/lecture5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lit-element-starter-js/my-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/lit-element-starter-js/my-element.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lit-element-starter-js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/lit-element-starter-js/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/yb/frontend" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,11 +47,23 @@
       <workItem from="1646063182783" duration="841000" />
       <workItem from="1646073388621" duration="16000" />
       <workItem from="1647329774116" duration="414000" />
-      <workItem from="1647882124752" duration="1179000" />
+      <workItem from="1647882124752" duration="2406000" />
     </task>
+    <task id="LOCAL-00001" summary="lecture 7">
+      <created>1647884558835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647884558836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lecture 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 7" />
   </component>
 </project>
